@@ -1,4 +1,3 @@
 pizza
 burrito
 cake
-spaghetti
